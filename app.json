@@ -1,7 +1,7 @@
 {
     "name": "demo2v",
     "description": "Deploy demo2v on Heroku.",
-    "keywords": ["V2Ray"],
+    "keywords": ["demo2v"],
     "env": {
         "ID": {
             "description": "UUID",
